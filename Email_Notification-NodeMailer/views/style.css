@@ -1,0 +1,73 @@
+body{
+    background-color: #cecece;
+}
+#main{
+    display: inline-block;    
+    background-color: white;
+    width: 70%;
+    height: 500px;
+    margin-top: 5%;
+    margin-left: 15%;
+    border-radius: 2px;
+}
+.right{
+    
+    float: right;
+    background-color: rgb(67, 113, 240);
+    width: 33%;
+    height: 80%;
+    margin-top: 5%;
+    margin-right: 5%;
+    border-radius: 4px;
+    margin-left: 2%; 
+
+     
+}
+.left{
+    float: left;
+    background-color: white;
+    width: 60%;
+    height: 100%;
+    
+
+}
+.txt{
+    padding: 10%;
+    padding-bottom: 2%;
+}
+span{
+    color: rgb(67, 113, 240);
+}
+#usr{
+    display: inline;
+    width: 49%;
+}   
+#pwd{
+    display: inline;
+    width: 49%;
+
+}
+.form-group{
+    margin-left: 10%;
+}
+#comment{
+    width: 99%;
+}
+button{
+    margin-left: 10%;
+    border: 2px solid rgb(67, 113, 240)  !important; 
+    background-color: white !important;
+    color: rgb(67, 113, 240);
+    width: 20%;
+}
+.txt2{
+    color: white;
+    padding-top: 10%;
+    padding-left: 15%;
+}
+p{
+    color: white;
+    padding-top: 5%;
+    padding-left: 15%;
+
+}
